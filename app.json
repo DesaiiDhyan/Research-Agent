@@ -1,0 +1,8 @@
+{
+  "name": "Research Agent",
+  "description": "AI-powered Research Agent built using IBM Langflow and IBM Orchestrate",
+  "version": "1.0.0",
+  "author": "Dhyan Desai",
+  "framework": "React + Vite",
+  "license": "MIT"
+}
